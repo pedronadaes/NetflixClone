@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--black);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display: grid;
+    place-items: center;
+}
+
+:root {
+    --red: #b91f1f;
+    --black: #141414;
+}
+
+.containerLogo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 90vw;
+}
+
+.logo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    color: var(--red);
+}
+
+header nav a {
+    text-decoration: none;
+    color: lightgray;
+    margin-right: 10px;
+}
+
+header nav a:hover {
+    color: white;
+}
+
+#spotlight {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    height: 540px;
+    width: 99vw;
+    background: url("https://mcdn.wallpapersafari.com/medium/8/23/IAdHCy.jpg");
+    background-size: cover;
+    transition: .5s;
+}
+
+#movie {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    margin-top: 100px;
+    text-shadow: black 0px 0px 15px;
+    margin-left: 20px;
+    transition: .5s;
+}
+
+#year {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-shadow: black 0px 0px 15px;
+    margin-left: 20px;
+}
+
+#sinopsis {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    width: 50%;
+    text-shadow: black 0px 0px 10px;
+    margin-left: 20px;
+}
+
+.buttons {
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana;
+    font-weight: bold;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: #292929;
+    cursor: pointer;
+    margin-right: 5px;
+    border-radius: 3px;
+    box-shadow: #161616 2px 5px 5px;
+}
+
+.button:hover {
+    color: black;
+    background-color: lightgray;
+    transition: .3s ease all;
+}
+
+#carouselBox {
+    width: 98vw;
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    
+}
+
+.moviesB {
+    width: 200px;
+    height: 300px;
+    border: none;
+    border-radius: 3px;
+    margin: 5px;
+    flex: none;
+    cursor: pointer;
+}
+
+#zero {
+    background-image: url("../database/01sonhodeliberdade.jpg");
+    background-size: cover;
+}
+
+#one {
+    background-image: url("../database/02poderosochefao.jpg");
+    background-size: cover;
+}
+
+#two {
+    background-image: url("../database/03esperamilagre.jpg");
+    background-size: cover;
+}
+
+#three {
+    background-image: url("../database/04pulpfiction.jpg");
+    background-size: cover;
+}
+
+#four {
+    background-image: url("../database/05darkknight.jpg");
+    background-size: cover;
+}
+
+#five {
+    background-image: url("../database/06lordofrings.jpg");
+    background-size: cover;
+}
+
+#six {
+    background-image: url("../database/07forrestgump.jpg");
+    background-size: cover;
+}
+
+#seven {
+    background-image: url("../database/08clubedaluta.jpg");
+    background-size: cover;
+}
+
+#eight {
+    background-image: url("../database/09origem.jpg");
+    background-size: cover;
+}
+
+#nine {
+    background-image: url("../database/10profissional.jpg");
+    background-size: cover;
+}

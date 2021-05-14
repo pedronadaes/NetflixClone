@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/functions.js"></script>
+    <script src="database/db.json"></script>
+    <title>Netflix Clone</title>
+</head>
+<body>
+    <header>
+        <div class="containerLogo">
+            <h2 class="logo">NETFLIX</h2>
+            <nav class="navMenu">
+                <a href="#">Início</a>
+                <a href="#">Séries</a>
+                <a href="#">Filmes</a>
+                <a href="#">Documentários</a>
+            </nav>
+        </div>
+    </header>
+    <main id="spotlight">
+        <div id="movie"></div>
+        <div id="year"></div>
+        <div id="sinopsis"></div>
+        <div class="buttons">
+            <button id="watch" class="button">ASSISTIR</button>
+            <button id="info" class="button">MAIS INFORMAÇÕES</button>
+        </div>
+
+    </main>
+    <div class="carousel">
+        <div id="carouselBox">
+            <button id="zero" class="moviesB" onclick="switchMovie1()"></button>
+            <button id="one" class="moviesB" onclick="switchMovie2()"></button>
+            <button id="two" class="moviesB" onclick="switchMovie3()"></button>
+            <button id="three" class="moviesB" onclick="switchMovie4()"></button>
+            <button id="four" class="moviesB" onclick="switchMovie5()"></button>
+            <button id="five" class="moviesB" onclick="switchMovie6()"></button>
+            <button id="six" class="moviesB" onclick="switchMovie7()"></button>
+            <button id="seven" class="moviesB" onclick="switchMovie8()"></button>
+            <button id="eight" class="moviesB" onclick="switchMovie9()"></button>
+            <button id="nine" class="moviesB" onclick="switchMovie10()"></button>
+        </div>
+    </div>
+</body>
+</html>

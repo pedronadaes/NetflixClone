@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "titulo": "Escolha seu filme abaixo!",
+        "sinopse": "Está na hora de preparar aquela pipoquinha e curtir um filmaço!",
+        "ano": " ",
+        "img": "https://mcdn.wallpapersafari.com/medium/8/23/IAdHCy.jpg"
+    },
+    {   
+        "id": 1,
+        "titulo": "Um Sonho de Liberdade",
+        "sinopse": "Em 1946, Andy Dufresne, um jovem e bem sucedido banqueiro, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua.",
+        "ano": 1994,
+        "img": "https://www.themoviedb.org/t/p/original/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "O Podereso Chefão",
+        "sinopse": "Uma família mafiosa luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumir os negócios.",
+        "ano": 1972,
+        "img": "https://www.themoviedb.org/t/p/original/39rtAdg3yx6IDxRg0ZLXefv0aPY.jpg"
+    },
+    {
+        "id": 3,
+        "titulo": "À Espera de Um Milagre",
+        "sinopse": "1935, no corredor da morte de uma prisão sulista. Paul Edgecomb (Tom Hanks) é o chefe de guarda da prisão, que temJohn Coffey (Michael Clarke Duncan) como um de seus prisioneiros. Aos poucos, desenvolve-se entre eles uma relação incomum, baseada na descoberta de que o prisioneiro possui um dom mágico que é, ao mesmo tempo, misterioso e milagroso.",
+        "ano": 1999,
+        "img": "https://www.themoviedb.org/t/p/original/l6hQWH9eDksNJNiXWYRkWqikOdu.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "Pulp Fiction",
+        "sinopse": "Os assassinos Vincent e Jules passam por imprevistos ao recuperar uma mala para um mafioso. O boxeador Butch é pago pelo mesmo mafioso para perder uma luta, e a esposa do criminoso fica sob responsabilidade de Vincent por uma noite. Essas histórias se relacionam numa teia repleta de violência.",
+        "ano": 1995,
+        "img": "https://www.themoviedb.org/t/p/original/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+    },
+    {
+        "id": 5,
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "sinopse": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+        "ano": 2008,
+        "img": "https://www.themoviedb.org/t/p/original/6fA9nie4ROlkyZAUlgKNjGNCbHG.jpg"
+    },
+    {
+        "id": 6,
+        "titulo": "O Senhor dos Anés: O Retorno do Rei",
+        "sinopse": "O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.",
+        "ano": 2003,
+        "img": "https://www.themoviedb.org/t/p/original/lXhgCODAbBXL5buk9yEmTpOoOgR.jpg"
+    },
+    {
+        "id": 7,
+        "titulo": "Forrest Gump: O Contador de Histórias",
+        "sinopse": "Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump (Tom Hanks), um rapaz com QI abaixo da média e boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e Watergate, mas continua pensando no seu amor de infância, Jenny Curran (Robin Wright).",
+        "ano": 1994,
+        "img": "https://www.themoviedb.org/t/p/original/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg"
+    },
+    {
+        "id": 8,
+        "titulo": "O Clube da Luta",
+        "sinopse": "Um homem deprimido que sofre de insônia conhece um estranho vendedor de sabonetes chamado Tyler Durden. Eles formam um clube clandestino com regras rígidas onde lutam com outros homens cansados de suas vidas mundanas. Mas sua parceria perfeita é comprometida quando Marla chama a atenção de Tyler.",
+        "ano": 1999,
+        "img": "https://www.themoviedb.org/t/p/original/7XEtHQoy1hwa8XWaOkSv3rlteea.jpg"
+    },
+    {
+        "id": 9,
+        "titulo": "A Origem",
+        "sinopse": "Um ladrão que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo.",
+        "ano": 2010,
+        "img": "https://www.themoviedb.org/t/p/original/7dW4BobKP5ijWCLnbhxvcogVvHs.jpg"
+    },
+    {
+        "id": 10,
+        "titulo": "O Profissional",
+        "sinopse": "Mathilda tem apenas 12 anos de idade mas já conhece o lado obscuro da vida: seu pai abusivo guarda drogas para policiais corruptos e a mãe a negligencia. O vizinho Léon gosta de cuidar de plantas, mas é um assassino de aluguel para o gângster Tony. Quando sua família é assassinada por um agente antidrogas desonesto, Mathilda se une a um relutante Léon para aprender o negócio mortal e vingar a morte da família.",
+        "ano": 1994,
+        "img": "https://www.themoviedb.org/t/p/original/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg"
+    }
+]
