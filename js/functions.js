@@ -4,7 +4,6 @@ fetch("./database/db.json")
                 document.getElementById("movie").innerText = data[0].titulo;
                 document.getElementById("year").innerText = data[0].ano;
                 document.getElementById("sinopsis").innerText = data[0].sinopse;
-                document.getElementById("background").src = data[0].img
             });
 
 function switchMovie1 () {
@@ -117,3 +116,23 @@ function switchMovie10 () {
             });
 }
 
+const slider = document.querySelector("#carouselBox");
+let isDown = false;
+let startX;
+let scrollLeft;
+
+slider.addEventListener("mousedown", () => {
+    isDown = true;
+});
+
+slider.addEventListener("mouseleave", () => {
+    isDown = false;
+});
+
+slider.addEventListener("mouseup", () => {
+    isDown = false;
+});
+
+slider.addEventListener("mousemove", () => {
+    console.log(isDown);
+});
